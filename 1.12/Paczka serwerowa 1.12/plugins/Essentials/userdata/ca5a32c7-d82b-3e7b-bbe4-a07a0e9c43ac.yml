@@ -1,0 +1,21 @@
+lastAccountName: grzegorz2047
+timestamps:
+  login: 1498668548341
+  logout: 1498668656055
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 22.30000001192093
+  y: 80.0
+  z: 186.30000001192093
+  yaw: 154.35
+  pitch: 6.149999
+logoutlocation:
+  world: world
+  x: 216.65461382985342
+  y: 72.0
+  z: -180.23485460703878
+  yaw: -0.30007935
+  pitch: 6.3000064
+afk: false
+socialspy: false

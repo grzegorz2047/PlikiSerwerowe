@@ -1,0 +1,123 @@
+groups:
+  HeadAdmin:
+    permissions:
+    - '*'
+    options:
+      prefix: '&6[HeadAdmin]&e'
+      default: false
+  Admin:
+    permissions:
+    - '*'
+    options:
+      prefix: '&2[Admin]&6'
+      default: false
+  Moderator:
+    permissions:
+    - essentials.fly
+    - nocheatplus.checks.moving.flying
+    - essentials.help
+    - essentials.ban
+    - essentials.warp
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.broadcast
+    - essentials.clearinventory
+    - essentials.eco.loan
+    - essentials.ext
+    - essentials.getpos
+    - essentials.helpop.recieve
+    - essentials.home.others
+    - essentials.invsee
+    - essentials.jails
+    - essentials.jump
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.kill
+    - essentials.mute
+    - essentials.nick.others
+    - essentials.realname
+    - essentials.signs.create.*
+    - essentials.signs.break.*
+    - essentials.spawner
+    - essentials.thunder
+    - essentials.time
+    - essentials.time.set
+    - essentials.protect.alerts
+    - essentials.protect.admin
+    - essentials.protect.ownerinfo
+    - essentials.ptime
+    - essentials.ptime.others
+    - essentials.togglejail
+    - essentials.top
+    - essentials.tp
+    - essentials.tphere
+    - essentials.tppos
+    - essentials.tptoggle
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.weather
+    - essentials.whois
+    - essentials.world
+    inheritance:
+    - Gracz
+    options:
+      build: true
+      default: false
+  Vip:
+    permissions:
+    - essentials.help
+    - essentials.chat.color
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.compass
+    - essentials.depth
+    - essentials.fly
+    - essentials.hat
+    - essentials.kick
+    - essentials.back.ondeath
+    - essentials.sethome.multiple.[2]
+    - nocheatplus.checks.moving.flying
+    - factions.chatspy
+    inheritance:
+    - Gracz
+    options:
+      build: true
+      default: false
+  Gracz:
+    permissions:
+    - essentials.warp
+    - essentials.help
+    - essentials.suicide
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.afk
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.home
+    - essentials.ignore
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.pay
+    - essentials.ping
+    - essentials.spawn
+    - essentials.rules
+    - essentials.motd
+    - essentials.list
+    - essentials.helpop
+    - authme.player.*
+    options:
+      prefix: '&e[Gracz]&7'
+      default: true
+schema-version: 1
+users:
+  ca5a32c7-d82b-3e7b-bbe4-a07a0e9c43ac:
+    group:
+    - Gracz
+    options:
+      name: grzegorz2047

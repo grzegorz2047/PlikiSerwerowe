@@ -1,0 +1,57 @@
+name: Moderator
+permissions:
+- essentials.help
+- essentials.kick
+- essentials.whois
+- group.gracz:
+    value: true
+    world: world_nether
+- essentials.signs.break.*
+- essentials.time
+- essentials.invsee
+- group.gracz:
+    value: true
+    world: world_the_end
+- essentials.top
+- essentials.tptoggle
+- essentials.unban
+- essentials.ban.notify
+- essentials.getpos
+- essentials.protect.alerts
+- essentials.thunder
+- essentials.ptime.others
+- essentials.unbanip
+- essentials.protect.admin
+- essentials.fly
+- essentials.weather
+- essentials.eco.loan
+- essentials.mute
+- essentials.tphere
+- essentials.jails
+- essentials.spawner
+- essentials.home.others
+- nocheatplus.checks.moving.flying
+- essentials.jump
+- essentials.togglejail
+- essentials.warp
+- essentials.ban
+- essentials.ptime
+- essentials.world
+- essentials.helpop.recieve
+- essentials.ext
+- essentials.banip
+- essentials.kick.notify
+- essentials.tp
+- group.gracz:
+    value: true
+    world: world
+- essentials.kill
+- essentials.realname
+- essentials.signs.create.*
+- essentials.broadcast
+- essentials.nick.others
+- essentials.clearinventory
+- essentials.time.set
+- group.gracz
+- essentials.tppos
+- essentials.protect.ownerinfo

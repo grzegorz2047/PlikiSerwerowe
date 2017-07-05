@@ -1,0 +1,46 @@
+1. Paczka serwerowa jest robiona publicznie, dostêpna za darmo i jest stworzona przez grzegorza2047 (YT grzegorz20471 - w google znajdziecie xd)
+2. Proszê nie podszywaæ siê pod autora tej paczki jako, ¿e jest to ³amanie praw autorskich
+3. Szczegó³y licencji mo¿na zobaczyæ na tej stronie: http://creativecommons.org/licenses/by-nc-sa/3.0/pl/
+4. Dawanie op na serwerze zostalo wylaczone! Aby dac op musisz wykonaæ komendê wy³¹cznie w KONSOLI. Mo¿na to wy³¹czyæ w NoCheatPlus, ale zalecane jest tego nie zmieniaæ!
+Aby to wykonaæ wejdŸ w folder NoCheatPlusa->config.yml za pomoc¹ programu notepad++ i znajdŸ tam opcjê:
+consoleonly:
+      active: true
+Ustaw to tak:
+consoleonly:
+      active: false
+To pozwoli na dawanie op i deop na serwerze w czacie. TO NIE JEST ZALECANE JAK MASZ ONLINE MODE NA FALSE.
+
+FAQ
+- z³e wyœwietlanie dokumentów
+- pobierz notepad++ i uruchamiaj poprzez notepad++ wszystkie pliki yml txt itp. !
+
+- Nie odnaleziono scie¿ki...
+- Uruchom poprawny plik uruchamiaj¹cy serwer lub zaktualizuj jave do najnowszej wersji i 
+spróbuj ponownie.
+
+- Nie mo¿na niszczyæ klocków ko³o spawnu
+- Admini MOG¥ niszczyæ klocki blisko spawnu czasem je¿eli pogrzebie siê w permissions jest to samo.
+
+- Wszystko ustawi³em ,ale tylko ja mogê wejœæ na serwer
+- SprawdŸ FIREWALL (i je¿eli masz router to te¿ sprawdŸ) czy masz otwarty port 25565 czasem trzeba go odblokowaæ. Zawsze mo¿esz wpisaæ w google: jak odblokowaæ porty serwer minecraft
+
+- Failed to bind ip address
+- Patrz odpowiedŸ wy¿ej
+
+- Jak daæ uprawnienia dla Admina 
+- wpisz w KONSOLI: lp user NickGracza parent set admin
+
+- Jak daæ moderatora w permissions
+- wpisz w KONSOLI: lp user NickGracza parent set moderator
+
+- Mo¿esz ustalaæ uprawnienia dla danego œwiata itd.
+
+- Wyœwietla mi siê komunikat cheap space...
+- Przydziel wiêcej pamiêci RAM serwerowi w pliku .bat np. na z 1024M na 2048M
+
+- Mam jave 7 i nie mogê uruchomiæ serwer , bo jest Nie odnaleziono œcie¿ki ...
+- poszukaj odpowiedniej komendy uruchamiaj¹cej serwer pod jave 7!
+
+- Gdzie mogê zmieniæ info na serwerze ?
+- WejdŸ do folderu plugins i znajdŸ plik automessages.yml.WejdŸ do niego jakimœ programem na przyk³ad
+notepad++ i edytuj. Wa¿ne ! nie u¿ywaj TAB w plikach z rozszerzeniem.YML !!!!!!

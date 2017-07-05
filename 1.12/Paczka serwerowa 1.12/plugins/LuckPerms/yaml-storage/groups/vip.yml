@@ -1,0 +1,25 @@
+name: VIP
+permissions:
+- essentials.help
+- essentials.kick
+- group.gracz:
+    value: true
+    world: world_nether
+- essentials.chat.shout
+- essentials.fly
+- group.gracz:
+    value: true
+    world: world
+- group.gracz:
+    value: true
+    world: world_the_end
+- essentials.hat
+- factions.chatspy
+- essentials.compass
+- essentials.depth
+- essentials.chat.question
+- group.gracz
+- nocheatplus.checks.moving.flying
+- essentials.back.ondeath
+- essentials.chat.color
+- essentials.sethome.multiple.[2]

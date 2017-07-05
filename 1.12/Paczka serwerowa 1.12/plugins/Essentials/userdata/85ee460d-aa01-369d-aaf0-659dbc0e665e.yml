@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: grzegorz0400
+timestamps:
+  login: 1399395813135
+  logout: 1399395805163
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -260.5
+  y: 73.0
+  z: 229.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -286.72160047541325
+  y: 79.0
+  z: 214.72482684614948
+  yaw: 67.798546
+  pitch: 6.2999496
+afk: false

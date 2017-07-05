@@ -1,0 +1,4 @@
+&6Witaj, {PLAYER}&6!
+&6Wpisz &c/help&6 po liste komend.
+&6Wpisz &c/list&6 aby zobaczyc kto jest na serwerze.
+&6Gracze na serwerze:&c {ONLINE} &6- Czas w grze :&c {WORLDTIME24}
